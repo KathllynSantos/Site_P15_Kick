@@ -1,14 +1,14 @@
 
 <div align="center">
 
-# Olá! 👋 Bem-vindo ao repositório do Desafio Parada 14! 🚀🌟 </div>
+# Olá! 👋 Bem-vindo ao repositório do Desafio Parada 15! 🚀🌟 </div>
 
 <h2>:pencil2: Descrição do Projeto</h2>
 
-<p>Este é um projeto criado como parte do desafio proposto pelo Professor Fernando, onde o objetivo era criar um site com um tema livre. Optei por dedicar o site à série de TV "How I Met Your Mother", utilizando a estrutura de div para organizar as informações.
+<p>Este é um projeto criado como parte do desafio proposto pelo Professor Fernando, onde o objetivo era criar um site com um tema livre. Optei por dedicar o site à série de TV "How I Met Your Mother", utilizando a estrutura de div e flex box para organizar as informações.
 </p>
 <p>
-Nessa versão fiz alterações do exercicio anterior que foi de tabelas <a href="https://github.com/KathllynSantos/Site_P11_Kick"> Clique aqui para verificar o anterior</a>
+Nessa versão fiz alterações do exercicio anterior que foi de tabelas <a href="https://github.com/KathllynSantos/Site_P14_Kick"> Clique aqui para verificar o anterior</a>
 </p>
 
 <h2> :page_facing_up: Visão Geral</h2>
@@ -25,7 +25,7 @@ Nessa versão fiz alterações do exercicio anterior que foi de tabelas <a href=
  <img src="./src/img/site.jpg">
 
 Você pode conferir o resultado do projeto
- <a href="https://site-p14-kick.vercel.app/"> aqui!</a>
+ <a href=""> aqui!</a>
 
  <h2>🛠️ Como Testar</h2>
 <ol>
